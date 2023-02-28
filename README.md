@@ -8,6 +8,7 @@ I'm a 16-year-old student from India who loves programming and reading self-help
 - 📚 I love reading self-help books and books about personal finance. Some of my favorites include "Atomic Habits" and "Rich Dad Poor Dad".
 - 🔭 I'm interested in astronomy and have a good understanding of Kepler's laws of planetary motion.
 - 🎨 In my free time, I like to draw, create 3D models, and design websites. I've created the following websites:
+  - [know-naveen.blogspot.com](https://know-naveen.blogspot.com/)
   - [codesbynaveen-card.blogspot.com](https://codesbynaveen-card.blogspot.com/)
   - [codesbynaveen.blogspot.com](https://codesbynaveen.blogspot.com/)
   - [knownaveen.blogspot.com](https://knownaveen.blogspot.com/)
