@@ -46,6 +46,29 @@ I'm a 16-year-old student from India who loves programming and reading self-help
 - My goal for my GitHub profile is to make it useful for others and showcase my skills.
 - I'm interested in collaborating on new projects and expanding my programming skills and knowledge.
 
+## Education
+
+- Tiny Tots (Nursery - Kindergarten 1st year, kindergarten 2nd year)  
+  [Bhilai, India]  
+  2008 - 2010
+  
+- GPV (Class 1)  
+  [Bhilai, India]  
+  2010
+  
+- BSP (Class 2-7)  
+  [Bhilai, India]  
+  2011 - 2018
+  
+- TPS {Hostel} (Class 8)  
+  [Bilaspur, India]  
+  2019 
+  
+- DCHSS (Class 9-12)  
+  [Raipur, India]  
+  2020 - present (expected graduation year 2023)  
+
+
 ## Contact Me
 
 - You can email me at `codesbynaveen@gmail.com`
