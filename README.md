@@ -2,7 +2,7 @@
 
 # Naveen K.G.
 
-I'm a 18-year-old student from India who loves programming and reading self-help books. Currently, I'm studying in class 12th at Disha College of Higher Secondary Studies.
+I'm a 18-year-old student from India who loves programming and reading self-help books. Currently.
 
 
 
@@ -70,7 +70,7 @@ I'm a 18-year-old student from India who loves programming and reading self-help
   
 - DCHSS (Class 9-12)  
   [Raipur, India]  
-  2020 - present (expected graduation year 2023)  
+  2020 - 2024  
 
 
 ## Contact Me
