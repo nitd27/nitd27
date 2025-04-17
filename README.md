@@ -93,9 +93,9 @@ I'm a 18-year-old student from India who loves programming and reading self-help
   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nitd27&)
 
 - **Most Used Language:**  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nitd27&show_icons=true&locale=en&theme=blue-green)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nitd27&show_icons=true&locale=en&theme=tokyonight)
 
 - **Overall GitHub Stats:**  
-  ![Overall Stats](https://github-readme-stats.vercel.app/api?username=nitd27&show_icons=true&locale=en&theme=blue-green)
+  ![Overall Stats](https://github-readme-stats.vercel.app/api?username=nitd27&show_icons=true&locale=en&theme=tokyonight)
 
 
