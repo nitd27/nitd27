@@ -2,7 +2,7 @@
 
 # Naveen K.G.
 
-I'm a 18-year-old student from India who loves programming and reading self-help books. Currently.
+I'm a 19-year-old student from India who loves programming and reading self-help books. Currently.
 
 
 
