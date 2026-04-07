@@ -2,7 +2,7 @@
 
 # Naveen K.G.
 
-I'm a 19-year-old student from India who loves programming and reading self-help books. Currently.
+I'm a 19-year-old student from India who loves engineering and reading self-help books.
 
 
 
@@ -11,18 +11,18 @@ I'm a 19-year-old student from India who loves programming and reading self-help
 
 ## About Me
 
-- 💻 I'm proficient in Python, C, and C++ programming languages.
+- 💻 I'm proficient in Python, Js, C and C++ programming languages.
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952556df7dc45160a527453be4793607e135ec389d6&rid=giphy.gif&ct=g" width="25%" />
-- 📚 I love reading self-help books and books about personal finance. Some of my favorites include "Atomic Habits", "Rich Dad Poor Dad" and "MEDITATIONS - MARCUS AURELIUS".
+- 📚 I love reading self-help books and books about personal finance. Some of my favorites include "Atomic Habits", "Psychology of Money" and "MEDITATIONS - MARCUS AURELIUS".
 <img src="https://media1.giphy.com/media/waUVFbJ4RmOPdN6iaX/200w.webp?cid=82a1493b1zp09d4dglxrsubteayizky047ss7sweaj7caktc&rid=200w.webp&ct=g" width="25%">
-- 🔭 I'm interested in astronomy and have a good understanding of Kepler's laws of planetary motion.
+- 🔭 I'm interested in astronomy and have a good understanding of it as well.
 <div style="display: flex; justify-content: space-between;">
   <img src="https://media3.giphy.com/media/xUOxeReJ5plCWAmGt2/giphy.gif" width="31%" />
   <img src="https://media.tenor.com/LsNQP2xV-8AAAAAC/meteor-shower-shooting-star.gif" width="30%" />
   <img src="https://media.tenor.com/c3_yoyj4tk0AAAAS/supernova-ssb.gif" width="31%" />
 </div>
 
-- 🎨 In my free time, I like to help others, talk to them and understand them, write poems, draw unique stuffs, and design websites. I've created the following websites:
+- 🎨 In my free time, I like to help others, talk to them and understand them, write poems, draw stuffs, design websites. Here are few website I have created:
   - [know-naveen.blogspot.com](https://know-naveen.blogspot.com/)
   - [codesbynaveen-card.blogspot.com](https://codesbynaveen-card.blogspot.com/)
   - [codesbynaveen.blogspot.com](https://codesbynaveen.blogspot.com/)
@@ -31,7 +31,7 @@ I'm a 19-year-old student from India who loves programming and reading self-help
 
 <img src="https://media.tenor.com/wXT-ow3dRlcAAAAC/website.gif" width="30%" />
 
-- 🎮 I also enjoy playing games like Swordigo and Minecraft.
+- 🎮 I also enjoy playing games like Swordigo and Minecraft and chess, add me up for a game.
 
 <img src="https://media.tenor.com/K9ZazwjOMKYAAAAd/minecraft.gif" />
 </div>
@@ -50,7 +50,7 @@ I'm a 19-year-old student from India who loves programming and reading self-help
 - My goal for my GitHub profile is to make it useful for others and showcase my skills.
 - I'm interested in collaborating on new projects and expanding my programming skills and knowledge.
 
-## Education
+## Education so far
 
 - Tiny Tots (Nursery - Kindergarten 1st year, kindergarten 2nd year)  
   [Bhilai, India]  
