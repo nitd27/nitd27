@@ -90,7 +90,7 @@ I'm a 19-year-old student from India who loves engineering and reading self-help
 
 ## Stats
 - **Streak Data:**  
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nitd27&)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitd27&theme=transparent&fire=EB0909)](https://git.io/streak-stats)
 
 - **Most Used Language:**  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nitd27&show_icons=true&locale=en&theme=tokyonight)
