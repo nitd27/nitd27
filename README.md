@@ -1,6 +1,6 @@
 ![gif](https://media1.tenor.com/images/ad401a802dba3bb6628ec692321fc8e7/tenor.gif)
 
-# Naveen Kumar Gorai.
+# Naveen K.G.
 
 I'm a 19-year-old student from India who loves engineering and reading self-help books.
 
